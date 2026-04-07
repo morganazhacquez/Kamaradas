@@ -1,0 +1,6 @@
+@Kamaradas_HostAddress = http://localhost:5105
+
+GET {{Kamaradas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
